@@ -40,6 +40,8 @@ The value of 'this', when used in an object, is the <Answer Here>.
   Incorrect! In JavaScript, the thing called this is the object that "owns" the code.
   
   Answer 4
+  this.state
+  Incorrect! State is used to pass props from a parent to child that is rendered each time value is updated
   
   
   Code Challenge
